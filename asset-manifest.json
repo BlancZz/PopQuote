@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PopQuote/static/css/main.1e3c7583.css",
-    "main.js": "/PopQuote/static/js/main.c3aa339a.js",
+    "main.js": "/PopQuote/static/js/main.8a1e631a.js",
     "static/js/496.eb2b6583.chunk.js": "/PopQuote/static/js/496.eb2b6583.chunk.js",
     "static/media/DarkBackground.png": "/PopQuote/static/media/DarkBackground.41df42db73253353e009.png",
     "static/media/LightBackground.png": "/PopQuote/static/media/LightBackground.32ded752719a282d39ca.png",
@@ -50,14 +50,14 @@
     "static/media/fira-sans-greek-ext-400-italic.woff": "/PopQuote/static/media/fira-sans-greek-ext-400-italic.997b9d119ca393be372c.woff",
     "static/media/fira-sans-greek-ext-400-normal.woff": "/PopQuote/static/media/fira-sans-greek-ext-400-normal.0632e95f661cec655e24.woff",
     "static/media/fira-sans-vietnamese-400-normal.woff": "/PopQuote/static/media/fira-sans-vietnamese-400-normal.04a5d0467eb9ab4523e7.woff",
-    "static/media/quotes.txt": "/PopQuote/static/media/quotes.d6fa30e8fc8df1f2fb8d.txt",
+    "static/media/quotes.txt": "/PopQuote/static/media/quotes.54af7df6b7c8f304102c.txt",
     "index.html": "/PopQuote/index.html",
     "main.1e3c7583.css.map": "/PopQuote/static/css/main.1e3c7583.css.map",
-    "main.c3aa339a.js.map": "/PopQuote/static/js/main.c3aa339a.js.map",
+    "main.8a1e631a.js.map": "/PopQuote/static/js/main.8a1e631a.js.map",
     "496.eb2b6583.chunk.js.map": "/PopQuote/static/js/496.eb2b6583.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1e3c7583.css",
-    "static/js/main.c3aa339a.js"
+    "static/js/main.8a1e631a.js"
   ]
 }
